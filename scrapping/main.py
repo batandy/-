@@ -7,3 +7,5 @@ so_jobs=get_so_jobs()
 jobs=so_jobs+indeed_jobs
 
 save_to_file(jobs)
+
+# 한번더 확인 하느는ㄱ ㅕㅇㅁ 버젼관리중
